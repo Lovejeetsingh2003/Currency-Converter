@@ -148,7 +148,7 @@ class _HomeClassState extends State<HomeClass> {
                   ),
                   fillColor: Colors.white,
                   filled: true,
-                  focusedBorder: OutlineInputBorder(
+                  border: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(10),
                   ),
                 ),
